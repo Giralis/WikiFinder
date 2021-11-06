@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F05E2B92736AE4F0049DDC0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 9F05E2B82736AE4F0049DDC0 /* .gitignore */; };
 		9F4B47772735362E00FBB1D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4B47762735362E00FBB1D9 /* AppDelegate.swift */; };
 		9F4B47792735362E00FBB1D9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4B47782735362E00FBB1D9 /* SceneDelegate.swift */; };
 		9F4B477B2735362E00FBB1D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4B477A2735362E00FBB1D9 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F05E2B82736AE4F0049DDC0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		9F4B47732735362E00FBB1D9 /* WikiFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WikiFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F4B47762735362E00FBB1D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F4B47782735362E00FBB1D9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				9F4B47762735362E00FBB1D9 /* AppDelegate.swift */,
 				9F4B47782735362E00FBB1D9 /* SceneDelegate.swift */,
 				9F4B477A2735362E00FBB1D9 /* ViewController.swift */,
+				9F05E2B82736AE4F0049DDC0 /* .gitignore */,
 				9F4B477C2735362E00FBB1D9 /* Main.storyboard */,
 				9F4B477F2735363000FBB1D9 /* Assets.xcassets */,
 				9F4B47812735363000FBB1D9 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F05E2B92736AE4F0049DDC0 /* .gitignore in Resources */,
 				9F4B47832735363000FBB1D9 /* LaunchScreen.storyboard in Resources */,
 				9F4B47802735363000FBB1D9 /* Assets.xcassets in Resources */,
 				9F4B477E2735362E00FBB1D9 /* Main.storyboard in Resources */,
